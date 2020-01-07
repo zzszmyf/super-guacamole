@@ -5,7 +5,8 @@ The old one is [here](http://www.nmd5.com)
 
 new TG @joker_qian
 
-## 请善用搜索[`Ctrl+F`]查找
+## 请善用搜索[`Ctrl+F`]查找   
+搜集有关渗透测试中用python编写的POC、脚本 、文章
 
 ## 0x01
 [CyBRICS CTF Quals 2019 Web Writeup](./pdfs/CyBRICS CTF Quals 2019 Web 题解.pdf)
