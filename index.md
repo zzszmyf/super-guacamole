@@ -27,8 +27,13 @@ IV. [ThinkPHP 5.0反序列化利用链学习](./pdfs/[TP系列IV]ThinkPHP 5.0反
 
 ## 0x00
 [CVE-2019-9829：Maccms苹果CMS后台GetShell漏洞](./pdfs/Maccms-v10.md)  
+[批量查找SQL注入小技巧](https://www.freebuf.com/column/223436.html)  
+[Weblogic一键漏洞检测工具，V1.3](https://github.com/rabbitmask/WeblogicScan)  
+[潮汐在线指纹识别系统](http://finger.tidesec.net/)  
+[分布式Web扫描平台](https://github.com/TideSec/WDScanner)  
+[潮巡自动化漏洞挖掘平台](https://github.com/TideSec/TideScout) 
 
-## 0x000 getshll
+## 0x000 
 
 I.[phpweb前台任意文件上传-getshell](https://www.buaq.net/go-19673.html) 
 
@@ -42,7 +47,13 @@ I.[Discuz!X ≤3.4 任意文件删除漏洞分析](https://paper.seebug.org/411/
 
 I.[CVE-2019-12858：zzzphp v1.6.6 任意代码执行](https://www.twblogs.net/a/5d19e6e2bd9eee1e5c82eccf/zh-cn)
 
-## 0x2019/12
+I.[Drupal 8文件上传漏洞](https://www.aon.com/cyber-solutions/aon_cyber_labs/file-upload-vulnerability-in-drupal8/)
+
+
+
+
+I.[对乌云漏洞库payload的整理以及Burp辅助插件](https://mp.weixin.qq.com/s/9RHVsw-HtAfo1UuPAqXZEw)
+
 I.[Hessian反序列化RCE漏发复现及分析](https://xz.aliyun.com/t/7028)
 
 I.[UDF提权实验](https://mp.weixin.qq.com/s/URPJPbmRixfWPKFDaX1qFA)
