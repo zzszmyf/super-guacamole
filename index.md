@@ -3,9 +3,6 @@ Welcome to 色百万~算命瞎子's new blog
 
 The old one is [here](http://www.nmd5.com) [TG](https://t.me/gzgege)
 
-## 0x其他杂类
-[其他杂类](./pdfs/myblo)  
-
 ## 0x000
 [CVE-2019-9829：Maccms苹果CMS后台GetShell漏洞](./pdfs/Maccms-v10.md)  
 
