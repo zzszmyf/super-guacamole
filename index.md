@@ -1,7 +1,9 @@
 ## 0x00 
 Welcome to 色百万~算命瞎子's new blog  
 
-The old one is [here](http://www.nmd5.com)       [TG](https://t.me/gzgege)
+The old one is [here](http://www.nmd5.com) 
+
+new TG @joker_qian
 
 ## 请善用搜索[`Ctrl+F`]查找
 
