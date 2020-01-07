@@ -1,6 +1,6 @@
 ## 卑微瞎子，希望各位大佬多带带我。
 
-擅长：软件逆向、web安全、waf绕过、PHP开、发攻防对抗、CTF、加解密、漏洞挖掘、kali、划水占位、ICS、Mobile、Running、内网渗透、Android/IOS
+擅长：软件逆向、web安全、waf绕过、PHP开、发攻防对抗、CTF、加解密、漏洞挖掘、kali、划水占位、ICS、Mobile、Running、内网渗透、Android/IOS、ddos攻击、cc攻击、bc脱裤删库、外挂网教育员、bc渗透、发卡网纪检委、SEO工具开发、渗透脚本编写、吃鸡外挂、社工、提权牛、
 
 上面擅长都是我编的，我真正擅长的是盲僧。
 
