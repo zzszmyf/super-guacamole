@@ -6,7 +6,7 @@ The old one is [here](http://www.nmd5.com) [TG](https://t.me/gzgege)
 ## 0x000
 [CVE-2019-9829：Maccms苹果CMS后台GetShell漏洞](./pdfs/Maccms-v10.md)  
 
-## 0x2020/1
+## 0x000 getshll
 
 I.[phpweb前台任意文件上传-getshell](https://www.buaq.net/go-19673.html) 
 
@@ -51,7 +51,7 @@ I.[Vimeo上传功能中的SSRF]( https://nosec.org/home/detail/3468.html)
 
 I.[原创干货常见网络转发、代理工具的使用](https://mp.weixin.qq.com/s/aKTTk3tvPl9KNHOtH7_PfA)
 
-#### 0x0 CTF####
+#### 0x000 CTF
 [CyBRICS CTF Quals 2019 Web Writeup](./pdfs/CyBRICS CTF Quals 2019 Web 题解.pdf)
 
 [De1CTF 2019 Web Writeup](./pdfs/De1CTF 2019 Web Writeup.pdf)
