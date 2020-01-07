@@ -51,10 +51,10 @@ I.[Vimeo上传功能中的SSRF]( https://nosec.org/home/detail/3468.html)
 
 I.[原创干货常见网络转发、代理工具的使用](https://mp.weixin.qq.com/s/aKTTk3tvPl9KNHOtH7_PfA)
 
-## 0x01
+## 
 [CyBRICS CTF Quals 2019 Web Writeup](./pdfs/CyBRICS CTF Quals 2019 Web 题解.pdf)
 
-## 0x02
+##
 [De1CTF 2019 Web Writeup](./pdfs/De1CTF 2019 Web Writeup.pdf)
 
 ## 0x03
