@@ -49,8 +49,40 @@ I.[CVE-2019-12858：zzzphp v1.6.6 任意代码执行](https://www.twblogs.net/a/
 
 I.[Drupal 8文件上传漏洞](https://www.aon.com/cyber-solutions/aon_cyber_labs/file-upload-vulnerability-in-drupal8/)
 
+I.[渗透测试tips：两处有趣的文件上传到getshell](https://xz.aliyun.com/t/7024)
+
+I.[致远A8 OA系统任意文件上传getshell](https://www.jianshu.com/p/0955bdd7329c)
+
+I.[POSCMS交易所系统多个高危漏洞详解，可前台GetShell](https://www.jianshu.com/p/7cabf9ef2aad)
+
+I.[ThinkPHP 5.* 远程命令执行漏洞复现与GETSHELL](https://www.jianshu.com/p/9b8eff1e3785)
+
+I.[CmsEasy 前台无限制getshell](https://www.jianshu.com/p/fac379dcbd1e)
+
+I.[UEditor .net版本 getshell](https://www.jianshu.com/p/6dae608b617c)
+
+I.[Tomcat配置访问后台弱口令拿shell复现](https://www.jianshu.com/p/85caf180c75b)
+
+I.[Zabbix 注入到命令执行漏洞复现](https://www.jianshu.com/p/b69d6b89a1d1)
+
+I.[Ueditor php版鸡肋getshell](https://www.jianshu.com/p/dd6b94f2a955)
 
 
+
+
+
+
+
+
+I.[CVE-2019-11580/Atlassian Crowd存在未授权文件上传导致远程代码执行](https://www.jianshu.com/p/be99b57a87cc)
+
+I.[日常挖洞第二期_旁站注入“花式”漏洞拿下大型服务器](https://www.jianshu.com/p/52453bae23bc)
+
+I.[实战某大型物流GETSHELL到内网渗透](https://www.jianshu.com/p/2fbf03f58677)
+
+I.[Apacha-Shiro PaddingOracle 分析](https://xz.aliyun.com/t/7026)
+
+I.[Nexus Repository Manager漏洞利用总结](https://www.jianshu.com/p/1328a3e0689c)
 
 I.[对乌云漏洞库payload的整理以及Burp辅助插件](https://mp.weixin.qq.com/s/9RHVsw-HtAfo1UuPAqXZEw)
 
