@@ -1,4 +1,9 @@
-## 0x00 
+## 卑微瞎子，希望各位大佬多带带我。
+
+擅长：软件逆向、web安全、waf绕过、PHP开、发攻防对抗、CTF、加解密、漏洞挖掘、kali、划水占位、ICS、Mobile、Running、内网渗透、Android/IOS
+
+上面擅长都是我编的，我真正擅长的是盲僧。
+
 Welcome to 色百万~算命瞎子's new blog  
 
 The old one is [here](http://www.nmd5.com) 
