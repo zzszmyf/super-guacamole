@@ -18,6 +18,10 @@ new TG @joker_qian
 
 [De1CTF 2019 Web Writeup](./pdfs/De1CTF 2019 Web Writeup.pdf)
 
+[漏洞挖掘实战Web安全测试视频课程专题.zip 提取码：ywq2](https://pan.baidu.com/s/1VyAnloiHkl_SecUz4Dl9Bw )
+
+[https://www.anquanke.com]  [https://mp.weixin.qq.com/s/PHA28DAbFkAjwCj4sGlgng]
+
 ## 0x02
 ThinkPHP 反序列化学习  
 I.   [ThinkPHP 5.1反序列化利用链学习](./pdfs/[TP系列I]ThinkPHP 5.1反序列化利用链学习.html)  
