@@ -24,8 +24,11 @@ new TG @joker_qian
 
 [老司机带你过常规WAF](https://www.anquanke.com/post/id/102852 )
 
+##phpmyadmin
 [getshell技巧-phpMyAdmin的利用](https://www.icode9.com/content-3-603287.html)
+
 [从phpinfo到phpmyadmin的综合渗透利用](https://xz.aliyun.com/t/2222)
+
 [phpmyadmin getshell姿势](https://xz.aliyun.com/t/3283)
 
 
