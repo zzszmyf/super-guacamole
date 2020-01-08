@@ -24,6 +24,11 @@ new TG @joker_qian
 
 [老司机带你过常规WAF](https://www.anquanke.com/post/id/102852 )
 
+[getshell技巧-phpMyAdmin的利用](https://www.icode9.com/content-3-603287.html)
+[从phpinfo到phpmyadmin的综合渗透利用](https://xz.aliyun.com/t/2222)
+[phpmyadmin getshell姿势](https://xz.aliyun.com/t/3283)
+
+
 ## 0x02
 ThinkPHP 反序列化学习  
 I.   [ThinkPHP 5.1反序列化利用链学习](./pdfs/[TP系列I]ThinkPHP 5.1反序列化利用链学习.html)  
